@@ -14,7 +14,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [2] Ezgi Korkmaz. Investigating Vulnerabilities of Deep Neural Policies. Conference on Uncertainty in Artificial Intelligence (UAI), Proceedings of Machine Learning Research (PMLR), 2021.<br />
 **[Acceptance Rate: 26.38%]** <br />
-[[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf) [[PMLR]](https://proceedings.mlr.press/v161/korkmaz21a.html) [[Abstract]](https://robustdeepreinforcementlearning.github.io/) [[News]](https://adversa.ai/blog/best-of-adversarial-ml-week-34-attacking-aerial-imagery-object-detector/) [[Cite]](ekuaibibtex.html)
+[[PMLR]](https://proceedings.mlr.press/v161/korkmaz21a.html) [[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf) [[Abstract]](https://robustdeepreinforcementlearning.github.io/) [[News]](https://adversa.ai/blog/best-of-adversarial-ml-week-34-attacking-aerial-imagery-object-detector/) [[Cite]](ekuaibibtex.html)
 
 [3] Ezgi Korkmaz. The Robustness of Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Artificial Intelligence for Agent Based Modelling Workshop, 2022. [[Cite]](ekicml22bibtex.html)
 
