@@ -10,7 +10,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 ### Single Author Publications
 
 [1] Ezgi Korkmaz. Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs. AAAI Conference on Artificial Intelligence, 2022. **[Acceptance Rate: 14.58%]** <br />
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20684/20443) [[Abstract]](https://adversarialreinforcementlearning.github.io) [[Cite]](ekaaai22.html)
+[[AAAI]] (https://ojs.aaai.org/index.php/AAAI/article/view/20684) [[Paper]] (https://ojs.aaai.org/index.php/AAAI/article/view/20684/20443) [[Abstract]](https://adversarialreinforcementlearning.github.io) [[Cite]](ekaaai22.html)
 
 [2] Ezgi Korkmaz. Investigating Vulnerabilities of Deep Neural Policies. Conference on Uncertainty in Artificial Intelligence (UAI), Proceedings of Machine Learning Research (PMLR), 2021.<br />
 **[Acceptance Rate: 26.38%]** <br />
