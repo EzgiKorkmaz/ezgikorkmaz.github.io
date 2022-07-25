@@ -16,7 +16,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 **[Acceptance Rate: 26.38%]** <br />
 [[PMLR]](https://proceedings.mlr.press/v161/korkmaz21a.html) [[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf) [[Abstract]](https://robustdeepreinforcementlearning.github.io/) [[News]](https://adversa.ai/blog/best-of-adversarial-ml-week-34-attacking-aerial-imagery-object-detector/) [[Cite]](ekuaibibtex.html)
 
-[3] Ezgi Korkmaz. The Robustness of Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Artificial Intelligence for Agent Based Modelling Workshop, 2022. [[Cite]](ekicml22bibtex.html)
+[3] Ezgi Korkmaz. Robustness of Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Artificial Intelligence for Agent Based Modelling Workshop, 2022. [[Cite]](ekicml22bibtex.html)
 
 [4] Ezgi Korkmaz. Adversarial Attacks Against Deep Imitation and Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Complex Feedback in Online Learning Workshop, 2022. [[Cite]](ekicmlbibtex.html)
 
