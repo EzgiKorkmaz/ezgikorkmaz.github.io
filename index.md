@@ -25,7 +25,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 [6] Ezgi Korkmaz. Inaccuracy of State-Action Value Function For Non-Optimal Actions in Adversarially Trained Deep Neural Policies. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR) **[Oral Presentation]**, 2021 & International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.[[Paper]](https://ieeexplore.ieee.org/document/9523170) [[Slides]](https://www.youtube.com/watch?v=F3cvXrLWcoU&t=3s&ab_channel=AngelinaWang) [[Cite]](https://dblp.org/rec/conf/cvpr/Korkmaz21.html?view=bibtex)
 
 [7] Ezgi Korkmaz. A Brief Summary on COVID-19 Pandemic and Machine Learning Approaches. International Joint Conference on Artificial Intelligence (IJCAI) Workshop on Artificial Intelligence for Social Good, 2021 & Conference on Neural Information Processing Systems (NeurIPS) Machine Learning in Public Health Workshop.<br />
-**[Oral Presentation]**. [[Paper IJCAI]](ijcai21EK.pdf) [[Paper NeurIPS]](neurIPS21.pdf) [[Abstract]](https://machinelearningcovid19.github.io/) [[Cite]](ekijcaibibtex.html)
+**[Oral Presentation]**. [[Paper NeurIPS]](neurIPS21.pdf) [[Abstract]](https://machinelearningcovid19.github.io/) [[Cite]](ekijcaibibtex.html)
 
 [8] Ezgi Korkmaz. Non-Robust Feature Mapping in Deep Reinforcement Learning. International Conference on Machine Learning (ICML) A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning Workshop, 2021 & Conference on Neural Information Processing Systems (NeurIPS) Metacognition in the Age of AI: Challenges and Opportunities **[Spotlight Presentation]**, 2021. [[Cite]](icmlmapbibtex.html)
 
