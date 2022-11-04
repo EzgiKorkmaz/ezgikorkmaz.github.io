@@ -18,7 +18,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [3] Ezgi Korkmaz. Robustness of Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Artificial Intelligence for Agent Based Modelling Workshop, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022. [[Cite]](ekicml22bibtex.html)
 
-[4] Disclosing the Biases in Large Language Models via Reward Structured Questions. Conference on Neural Information Processing Systems (NeurIPS) Workshop on Interactive Learning for Natural Language Processing & Conference on Neural Information Processing Systems (NeurIPS) Foundation Models for Decision Making Workshop & Conference on Neural Information Processing Systems (NeurIPS) Robustness in Sequence Modeling Workshop & Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022.
+[4] Disclosing the Biases in Large Language Models via Reward Structured Questions. Conference on Neural Information Processing Systems (NeurIPS) Workshop on Interactive Learning for Natural Language Processing & Conference on Neural Information Processing Systems (NeurIPS) Foundation Models for Decision Making Workshop & Conference on Neural Information Processing Systems (NeurIPS) Robustness in Sequence Modeling Workshop & Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022. [[Cite]](neurips2022.html)
 
 [5] Ezgi Korkmaz. Adversarial Attacks Against Deep Imitation and Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Complex Feedback in Online Learning Workshop, 2022. [[Cite]](ekicmlbibtex.html)
 
