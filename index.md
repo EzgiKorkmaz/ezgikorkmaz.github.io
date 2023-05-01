@@ -7,7 +7,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 
 
-### Single Author Publications^1^
+### Single Author Publications<sup>1</sup>
 
 [1] Ezgi Korkmaz. Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness. AAAI Conference on Artificial Intelligence, 2023. **[Acceptance Rate: 19.6%]** <br /> [[Paper]](https://arxiv.org/pdf/2301.07487.pdf) [[Cite]](ezgikorkmazaaai23.html)
 
