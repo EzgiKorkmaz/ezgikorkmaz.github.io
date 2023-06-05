@@ -11,7 +11,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [1] Ezgi Korkmaz. Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness. AAAI Conference on Artificial Intelligence, 2023. **[Acceptance Rate: 19.6%]** <br /> [[Paper]](https://arxiv.org/pdf/2301.07487.pdf) [[Cite]](ezgikorkmazaaai23.html)
 
-[2<sup>a</sup>] Ezgi Korkmaz et al. Detecting Adversarial Directions in Deep Reinforcement Learning. International Conference on Machine Learning, ICML 2023. **[Acceptance Rate: 27.94%]** <br /> 
+[2<sup>a</sup>] Ezgi Korkmaz et al. Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions. International Conference on Machine Learning, ICML 2023. **[Acceptance Rate: 27.94%]** <br /> 
 
 [3] Ezgi Korkmaz. Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs. AAAI Conference on Artificial Intelligence, 2022. **[Acceptance Rate: 14.58%]** <br />
 [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20684) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20684/20443) [[Abstract]](https://adversarialreinforcementlearning.github.io) [[MILA Blog]](https://mila.quebec/en/article/adversarial-deep-reinforcement-learning/) [[In French]](https://mila.quebec/article/apprentissage-par-renforcement-profond-de-maniere-antagoniste/) [[Cite]](ekaaai22.html)
