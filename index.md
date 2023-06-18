@@ -15,7 +15,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 [[Paper]](https://openreview.net/forum?id=JS2iSqVZlN) [[Cite]](ezgikorkmazicml23.html)
 
 [3] Ezgi Korkmaz. Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs. AAAI Conference on Artificial Intelligence, 2022. **[Acceptance Rate: 14.58%]** <br />
-[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20684) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20684/20443) [[Abstract]](https://adversarialreinforcementlearning.github.io) [[MILA Blog]](https://mila.quebec/en/article/adversarial-deep-reinforcement-learning/) [[In French]](https://mila.quebec/article/apprentissage-par-renforcement-profond-de-maniere-antagoniste/) [[Twitter]](https://twitter.com/Mila_Quebec/status/1636472805620428809?cxt=HHwWksC9-ZTW9bUtAAAA) [[Cite]](ekaaai22.html)
+[[AAAI]](https://aaai.org/papers/07229-deep-reinforcement-learning-policies-learn-shared-adversarial-features-across-mdps/) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20684/20443) [[Abstract]](https://adversarialreinforcementlearning.github.io) [[MILA Blog]](https://mila.quebec/en/article/adversarial-deep-reinforcement-learning/) [[In French]](https://mila.quebec/article/apprentissage-par-renforcement-profond-de-maniere-antagoniste/) [[Twitter]](https://twitter.com/Mila_Quebec/status/1636472805620428809?cxt=HHwWksC9-ZTW9bUtAAAA) [[Cite]](ekaaai22.html)
 
 [4] Ezgi Korkmaz. Investigating Vulnerabilities of Deep Neural Policies. Conference on Uncertainty in Artificial Intelligence (UAI), Proceedings of Machine Learning Research (PMLR), 2021.<br />
 **[Acceptance Rate: 26.38%]** <br />
