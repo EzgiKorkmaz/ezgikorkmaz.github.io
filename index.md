@@ -20,13 +20,18 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [4] Ezgi Korkmaz. Investigating Vulnerabilities of Deep Neural Policies. Conference on Uncertainty in Artificial Intelligence (UAI), Proceedings of Machine Learning Research (PMLR), 2021.<br />
 **[Acceptance Rate: 26.38%]** <br />
-[[PMLR]](https://proceedings.mlr.press/v161/korkmaz21a.html) [[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf) [[Abstract]](https://robustdeepreinforcementlearning.github.io/) [[News]](https://adversa.ai/blog/best-of-adversarial-ml-week-34-attacking-aerial-imagery-object-detector/) [[Cite]](ekuaibibtex.html)
+[[PMLR]](https://proceedings.mlr.press/v161/korkmaz21a.html) [[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf) [[Abstract]](https://robustdeepreinforcementlearning.github.io/) [[News]](https://adversa.ai/blog/best-of-adversarial-ml-week-34-attacking-aerial-imagery-object-detector/) 
+[[BibTeX]](https://dblp.org/rec/conf/uai/Korkmaz21.html?view=bibtex)
+[[Cite]](ekuaibibtex.html)
 
 [5] Disclosing the Biases in Large Language Models via Reward Structured Questions. Conference on Neural Information Processing Systems (NeurIPS) Workshop on Interactive Learning for Natural Language Processing, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Foundation Models for Decision Making Workshop, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Robustness in Sequence Modeling Workshop, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022. [[Cite]](neurips2022.html)
 
 [6] Ezgi Korkmaz. Spectral Robustness Analysis of Deep Imitation Learning. Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022.
 
-[7] Ezgi Korkmaz. Inaccuracy of State-Action Value Function For Non-Optimal Actions in Adversarially Trained Deep Neural Policies. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR) **[Oral Presentation]**, 2021 & International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.[[Paper]](https://ieeexplore.ieee.org/document/9523170) [[Slides]](https://www.youtube.com/watch?v=F3cvXrLWcoU&t=3s&ab_channel=AngelinaWang) [[Cite]](https://dblp.org/rec/conf/cvpr/Korkmaz21.html?view=bibtex)
+[7] Ezgi Korkmaz. Inaccuracy of State-Action Value Function For Non-Optimal Actions in Adversarially Trained Deep Neural Policies. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR) **[Oral Presentation]**, 2021 & International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.[[Paper]](https://ieeexplore.ieee.org/document/9523170) 
+[[BibTeX]](https://dblp.org/rec/conf/cvpr/Korkmaz21.html?view=bibtex)
+[[Slides]](https://www.youtube.com/watch?v=F3cvXrLWcoU&t=3s&ab_channel=AngelinaWang) 
+[[Cite]](https://dblp.org/rec/conf/cvpr/Korkmaz21.html?view=bibtex)
 
 [8] Ezgi Korkmaz. Robustness of Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Artificial Intelligence for Agent Based Modelling Workshop, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022. [[Cite]](ekicml22bibtex.html)
 
