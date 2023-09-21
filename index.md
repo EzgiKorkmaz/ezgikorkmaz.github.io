@@ -16,12 +16,13 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 [[BibTeX]](https://dblp.org/rec/conf/aaai/Korkmaz23.html?view=bibtex)
 
 [2<sup>a</sup>] Ezgi Korkmaz et al. Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions. International Conference on Machine Learning, ICML 2023. **[Acceptance Rate: 27.94%]** <br /> 
-[[**ICML 2023**]](https://proceedings.mlr.press/v202/korkmaz23a.html) [[Paper]](https://proceedings.mlr.press/v202/korkmaz23a/korkmaz23a.pdf) 
+**[[ICML 2023]](https://proceedings.mlr.press/v202/korkmaz23a.html)** 
+[[Paper]](https://proceedings.mlr.press/v202/korkmaz23a/korkmaz23a.pdf) 
 [[Cite]](ezgikorkmazicml23.html)
 [[BibTeX]](https://dblp.org/rec/conf/icml/KorkmazB23.html?view=bibtex)
 
 [3] Ezgi Korkmaz. Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs. AAAI Conference on Artificial Intelligence, 2022. **[Acceptance Rate: 14.58%]** <br />
-[[**AAAI 2022**]](https://aaai.org/papers/07229-deep-reinforcement-learning-policies-learn-shared-adversarial-features-across-mdps/) 
+**[[AAAI 2022]](https://aaai.org/papers/07229-deep-reinforcement-learning-policies-learn-shared-adversarial-features-across-mdps/)** 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20684/20443) [[Abstract]](https://adversarialreinforcementlearning.github.io) 
 [[BibTeX]](https://dblp.org/rec/conf/aaai/Korkmaz22.html?view=bibtex) [[Cite]](ekaaai22.html) <br />
 [[In MILA Blog]](https://mila.quebec/en/article/adversarial-deep-reinforcement-learning/) 
@@ -30,7 +31,10 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [4] Ezgi Korkmaz. Investigating Vulnerabilities of Deep Neural Policies. Conference on Uncertainty in Artificial Intelligence (UAI), Proceedings of Machine Learning Research (PMLR), 2021.<br />
 **[Acceptance Rate: 26.38%]** <br />
-[[**PMLR 2021**]](https://proceedings.mlr.press/v161/korkmaz21a.html) [[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf) [[Abstract]](https://robustdeepreinforcementlearning.github.io/) [[News]](https://adversa.ai/blog/best-of-adversarial-ml-week-34-attacking-aerial-imagery-object-detector/) 
+**[[PMLR 2021]](https://proceedings.mlr.press/v161/korkmaz21a.html)** 
+[[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf) 
+[[Abstract]](https://robustdeepreinforcementlearning.github.io/) 
+[[News]](https://adversa.ai/blog/best-of-adversarial-ml-week-34-attacking-aerial-imagery-object-detector/) 
 [[BibTeX]](https://dblp.org/rec/conf/uai/Korkmaz21.html?view=bibtex)
 [[Cite]](ekuaibibtex.html)
 
