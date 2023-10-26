@@ -38,7 +38,9 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 [[BibTeX]](https://dblp.org/rec/conf/uai/Korkmaz21.html?view=bibtex)
 [[Cite]](ekuaibibtex.html)
 
-[5] Ezgi Korkmaz. Disclosing the Biases in Large Language Models via Reward Structured Questions. Conference on Neural Information Processing Systems (NeurIPS) Workshop on Interactive Learning for Natural Language Processing, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Foundation Models for Decision Making Workshop, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Robustness in Sequence Modeling Workshop, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022. [[Cite]](neurips2022.html)
+[5] Ezgi Korkmaz. Revealing the Bias in Large Language Models via Reward Structured Questions. Conference on Neural Information Processing Systems (NeurIPS) Workshop on Interactive Learning for Natural Language Processing, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Foundation Models for Decision Making Workshop, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Robustness in Sequence Modeling Workshop, 2022 & Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022.
+ [[Paper]](KorkmazNeurIPS22.pdf)
+ [[Cite]](neurips2022.html)
 
 [6] Ezgi Korkmaz. Spectral Robustness Analysis of Deep Imitation Learning. Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022.
 
