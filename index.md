@@ -3,7 +3,7 @@
 </head>
 
 
-I am a machine learning researcher and a PhD candidate in artificial intelligence and machine learning. I hold a Masters of Science degree in Electrical Engineering and Information Technology from Karlsruhe Institute of Technology. I wrote my MSc thesis at University of California, Berkeley.  Recently, I have been at DeepMind. My research focus is robustness and generalization in machine learning. 
+I am a machine learning researcher and a PhD candidate in artificial intelligence and machine learning. I wrote my MSc thesis at University of California, Berkeley. Recently, I have been at DeepMind. My research focus is robustness and generalization in machine learning. 
 
 
 
