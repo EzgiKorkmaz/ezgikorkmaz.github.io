@@ -1,5 +1,5 @@
 <head>
-  <meta name="keywords" content="adversarial, deep reinforcement learning, machine learning, adversarial attacks, robust, DeepRL, DRL, adversarial policies, robust reinforcement learning, safe RL, AI safety, AI security, machine learning safety, adversarial machine learning, reinforcement learning, deep learning, explainability, interpretability, AI alignment, ML safety, ML security, machine learning safety, artificial intelligence safety, adversarial reinforcement learning, robustness, robust RL, adversarial RL, safe reinforcement learning, safe RL, RL security, reinforcement learning security, AI security, adversarial machine learning, human centered AI ">
+  <meta name="keywords" content="reinforcement learning, adversarial, deep reinforcement learning, machine learning, adversarial attacks, robust, DeepRL, DRL, adversarial policies, robust reinforcement learning, safe RL, AI safety, AI security, machine learning safety, adversarial machine learning, reinforcement learning, deep learning, explainability, interpretability, AI alignment, ML safety, ML security, machine learning safety, artificial intelligence safety, adversarial reinforcement learning, robustness, robust RL, adversarial RL, safe reinforcement learning, safe RL, RL security, reinforcement learning security, AI security, adversarial machine learning, human centered AI ">
 </head>
 
 
@@ -14,6 +14,8 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26009/25781) 
 [[Cite]](ezgikorkmazaaai23.html)
 [[BibTeX]](https://dblp.org/rec/conf/aaai/Korkmaz23.html?view=bibtex)
+[[In UCL Blog]](https://blogs.ucl.ac.uk/steapp/2023/11/15/adversarial-attacks-robustness-and-generalization-in-deep-reinforcement-learning/) 
+
 
 [2<sup>a</sup>] Ezgi Korkmaz et al. Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions. International Conference on Machine Learning, ICML 2023. **[Acceptance Rate: 27.94%]** <br /> 
 **[[ICML 2023]](https://proceedings.mlr.press/v202/korkmaz23a.html)** 
