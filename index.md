@@ -13,7 +13,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 **[[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/26009)**
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26009/25781) 
 [[Cite]](ezgikorkmazaaai23.html)
-[[BibTeX]](https://dblp.org/rec/conf/aaai/Korkmaz23.html?view=bibtex) <br />
+[[BibTeX]](https://dblp.org/rec/conf/aaai/Korkmaz23.html?view=bibtex) 
 [[In UCL Blog]](https://blogs.ucl.ac.uk/steapp/2023/11/15/adversarial-attacks-robustness-and-generalization-in-deep-reinforcement-learning/) 
 
 
