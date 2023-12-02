@@ -44,6 +44,10 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
  [[Paper]](KorkmazNeurIPS22.pdf)
  [[Cite]](neurips2022.html)
 
+ [6] Ezgi Korkmaz. A Survey on Generalization in Deep Reinforcement Learning. Conference on Neural Information Processing Systems (NeurIPS) Robot Learning Workshop, NeurIPS 2023. 
+ [[Paper]](Reinforcement_Learning_Survey_NeurIPS23.pdf)
+ [[Cite]](rlsurveyneurips2023.html)
+
 [6] Ezgi Korkmaz. Spectral Robustness Analysis of Deep Imitation Learning. Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022.
 
 [7] Ezgi Korkmaz. Inaccuracy of State-Action Value Function For Non-Optimal Actions in Adversarially Trained Deep Neural Policies. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR) **[Oral Presentation]**, 2021 & International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.[[Paper]](https://ieeexplore.ieee.org/document/9523170) 
