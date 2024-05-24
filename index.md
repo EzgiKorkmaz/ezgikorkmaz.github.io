@@ -33,8 +33,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 [[In French]](https://mila.quebec/article/apprentissage-par-renforcement-profond-de-maniere-antagoniste/) 
 [[Twitter]](https://twitter.com/Mila_Quebec/status/1636472805620428809?cxt=HHwWksC9-ZTW9bUtAAAA) 
 
-[5] Ezgi Korkmaz. Investigating Vulnerabilities of Deep Neural Policies. Conference on Uncertainty in Artificial Intelligence (UAI), Proceedings of Machine Learning Research (PMLR), 2021.<br />
-**[Acceptance Rate: 26.38%]** <br />
+[5] Ezgi Korkmaz. Investigating Vulnerabilities of Deep Neural Policies. Conference on Uncertainty in Artificial Intelligence (UAI), Proceedings of Machine Learning Research (PMLR) [Acceptance Rate: 26.38%], **PMLR 2021**.<br />
 **[[PMLR 2021]](https://proceedings.mlr.press/v161/korkmaz21a.html)** 
 [[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf) 
 [[Abstract]](https://robustdeepreinforcementlearning.github.io/) 
