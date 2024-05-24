@@ -9,9 +9,9 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 ### Single Author Publications
 
-[1] Ezgi Korkmaz. Diagnosing and Understanding Deep Reinforcement Learning Decision Making. International Conference on Machine Learning, **ICML 2024**. [Acceptance Rate: 27.54%] <br /> 
+[1] Ezgi Korkmaz. Diagnosing and Understanding Deep Reinforcement Learning Decision Making. International Conference on Machine Learning [Acceptance Rate: 27.54%], **ICML 2024**.  <br /> 
 
-[2] Ezgi Korkmaz. Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness. AAAI Conference on Artificial Intelligence, AAAI 2023. **[Acceptance Rate: 19.6%]** <br /> 
+[2] Ezgi Korkmaz. Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness. AAAI Conference on Artificial Intelligence [Acceptance Rate: 19.6%], **AAAI 2023**. <br /> 
 **[[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/26009)**
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26009/25781) 
 [[Cite]](ezgikorkmazaaai23.html)
@@ -19,13 +19,13 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 [[In UCL Blog]](https://blogs.ucl.ac.uk/steapp/2023/11/15/adversarial-attacks-robustness-and-generalization-in-deep-reinforcement-learning/) 
 
 
-[3<sup>a</sup>] Ezgi Korkmaz et al. Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions. International Conference on Machine Learning, ICML 2023. **[Acceptance Rate: 27.94%]** <br /> 
+[3<sup>a</sup>] Ezgi Korkmaz et al. Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions. International Conference on Machine Learning [Acceptance Rate: 27.94%], **ICML 2023**.  <br /> 
 **[[ICML 2023]](https://proceedings.mlr.press/v202/korkmaz23a.html)** 
 [[Paper]](https://proceedings.mlr.press/v202/korkmaz23a/korkmaz23a.pdf) 
 [[Cite]](ezgikorkmazicml23.html)
 [[BibTeX]](https://dblp.org/rec/conf/icml/KorkmazB23.html?view=bibtex)
 
-[4] Ezgi Korkmaz. Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs. AAAI Conference on Artificial Intelligence, AAAI 2022. **[Acceptance Rate: 14.58%]** <br />
+[4] Ezgi Korkmaz. Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs. AAAI Conference on Artificial Intelligence  [Acceptance Rate: 14.58%],  **AAAI 2022**.<br />
 **[[AAAI 2022]](https://aaai.org/papers/07229-deep-reinforcement-learning-policies-learn-shared-adversarial-features-across-mdps/)** 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20684/20443) [[Abstract]](https://adversarialreinforcementlearning.github.io) 
 [[BibTeX]](https://dblp.org/rec/conf/aaai/Korkmaz22.html?view=bibtex) [[Cite]](ekaaai22.html) <br />
