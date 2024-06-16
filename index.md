@@ -10,6 +10,10 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 ### Single Author Publications
 
 [1] Ezgi Korkmaz. Understanding and Diagnosing Deep Reinforcement Learning. International Conference on Machine Learning [Acceptance Rate: 27.54%], **ICML 2024**.  <br /> 
+**[[ICML 2024]](https://openreview.net/pdf?id=s9RKqT7jVM)** 
+[[Paper]](https://openreview.net/pdf?id=s9RKqT7jVM) 
+[[Cite]](ezgikorkmazicml24.html)
+[[BibTeX]](ezgikorkmazicml24.html)
 
 [2] Ezgi Korkmaz. Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness. AAAI Conference on Artificial Intelligence [Acceptance Rate: 19.6%], **AAAI 2023**. <br /> 
 **[[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/26009)**
