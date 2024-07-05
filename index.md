@@ -49,7 +49,8 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
  [[Paper]](KorkmazNeurIPS22.pdf)
  [[Cite]](neurips2022.html)
 
- [7] Ezgi Korkmaz. A Survey on Generalization in Deep Reinforcement Learning. Conference on Neural Information Processing Systems (NeurIPS) Robot Learning Workshop, NeurIPS 2023. 
+ [7] Ezgi Korkmaz. A Survey Analyzing Generalization in Deep Reinforcement Learning. Conference on Neural Information Processing Systems (NeurIPS) Robot Learning Workshop, NeurIPS 2023. 
+ [[ArXiv]](https://arxiv.org/pdf/2401.02349)
  [[Paper]](Reinforcement_Learning_Survey_NeurIPS23.pdf)
  [[Cite]](rlsurveyneurips2023.html)
 
