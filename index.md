@@ -11,7 +11,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [1] Ezgi Korkmaz. Understanding and Diagnosing Deep Reinforcement Learning. International Conference on Machine Learning [Acceptance Rate: 27.54%], **ICML 2024**.  <br /> 
 **[[ICML 2024]](https://openreview.net/pdf?id=s9RKqT7jVM)** 
-[[Paper]](https://openreview.net/pdf?id=s9RKqT7jVM) 
+[[Paper]](https://proceedings.mlr.press/v235/korkmaz24a.html) 
 [[Cite]](ezgikorkmazicml24.html)
 [[BibTeX]](ezgikorkmazicml24.html)
 
