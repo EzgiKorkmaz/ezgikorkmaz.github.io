@@ -13,7 +13,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 **[[ICML 2024]](https://openreview.net/pdf?id=s9RKqT7jVM)** 
 [[Paper]](https://proceedings.mlr.press/v235/korkmaz24a.html) 
 [[Cite]](ezgikorkmazicml24.html)
-[[BibTeX]](ezgikorkmazicml24.html)
+[[BibTeX]](https://dblp.org/rec/conf/icml/Korkmaz24.html?view=bibtex)
 
 [2] Ezgi Korkmaz. Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness. AAAI Conference on Artificial Intelligence [Acceptance Rate: 19.6%], **AAAI 2023**. <br /> 
 **[[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/26009)**
