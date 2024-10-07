@@ -78,3 +78,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 <sup>a</sup> Excluding the study [3].
 
+**Lectures**
+
+Hoeffding's Inequality [[Slides]](HoeffdingsInequalityLecture.pdf)
+
