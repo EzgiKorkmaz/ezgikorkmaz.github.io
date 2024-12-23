@@ -55,6 +55,8 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
  [[Cite]](rlsurveyneurips2023.html)
 
 [8] Ezgi Korkmaz. Adversarial Robust Deep Reinforcement Learning is Neither Robust Nor Safe. Conference on Neural Information Processing Systems (NeurIPS) Workshop on Statistical Foundations of LLMs and Foundation Models, NeurIPS 2024.
+[[Paper]](https://openreview.net/pdf?id=EPa0udvXJE)
+[[Cite]](ezgikorkmazneurips24.html)
 
 [9] Ezgi Korkmaz. Spectral Robustness Analysis of Deep Imitation Learning. Conference on Neural Information Processing Systems (NeurIPS) Machine Learning Safety Workshop, 2022.
 
