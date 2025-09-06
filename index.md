@@ -3,7 +3,7 @@
 </head>
 
 
-I am a machine learning researcher. I hold a PhD in artificial intelligence and machine learning from University College London (UCL). I wrote my MSc thesis at University of California, Berkeley. Recently, I have been at DeepMind. My research focus is robustness and generalization in machine learning. 
+I am a machine learning researcher and I hold a PhD in artificial intelligence and machine learning from University College London (UCL). I wrote my MSc thesis at University of California, Berkeley. Recently, I have been at DeepMind. My research focus is robustness and generalization in machine learning. 
 
 
 
