@@ -87,5 +87,5 @@ I am a machine learning researcher and I hold a PhD in artificial intelligence a
 
 Hoeffding's Inequality [[Slides]](HoeffdingsInequalityLecture.pdf)
 
-AI Safety: From Reinforcement Learning to Foundation Models, **AAAI 2025**. [[Link]](https://sites.google.com/view/aisafety-aaai2025) [[Pdf]](aisafety.pdf)
+AI Safety: From Reinforcement Learning to Foundation Models, **AAAI 2025**. [[Link]](https://sites.google.com/view/aisafety-aaai2025) [[AAAI 2025]](AIsafetyaaai.pdf) [[Pdf]](aisafety.pdf) 
 
