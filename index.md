@@ -10,7 +10,7 @@ I am a machine learning researcher and I hold a PhD in artificial intelligence a
 ### Single Author Publications
 
 [1] Ezgi Korkmaz. Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning. Conference on Neural Information Processing Systems, **NeurIPS 2025**. <br /> 
-**$$\color{blue}{\mathbf{Spotlight \ Presentation}}$$**
+**Spotlight Presentation**
 
 [1] Ezgi Korkmaz. Understanding and Diagnosing Deep Reinforcement Learning. International Conference on Machine Learning, **ICML 2024**.  <br /> 
 **[[ICML 2024]](https://openreview.net/pdf?id=s9RKqT7jVM)** 
