@@ -51,6 +51,17 @@ Learning from raw high dimensional data via interaction with a given environment
     </button>
   </a>
 
+<a href="https://blogs.ucl.ac.uk/steapp/tag/adversarial-reinforcement-learning/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
+      Blog
+    </button>
+  </a>
+
+  <a href="https://underline.io/lecture/69381-adversarial-robust-deep-reinforcement-learning-requires-redefining-robustness" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
+      Video
+    </button>
+  </a>
 
   <a href="https://ezgikorkmaz.github.io" target="_blank" style="text-decoration: none;">
     <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
