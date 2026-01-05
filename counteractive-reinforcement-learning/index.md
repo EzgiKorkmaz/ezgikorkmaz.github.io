@@ -33,6 +33,28 @@ This paper introduces a fundamental paradigm for reinforcement learning that acc
 principles of learning and as a result increases the information gained from the environment interactions of the policy in a given MDP without adding computational complexity. Our analysis and method provide a theoretical basis for efficient, effective, scalable and accelerated reinforcement learning.
 
 
+<div style="text-align: center; margin: 30px 0;">
+  
+  <a href="https://openreview.net/pdf?id=qaHrpITIvB" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
+      Paper
+    </button>
+  </a>
+
+  <a href="https://openreview.net/forum?id=qaHrpITIvB" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
+      OpenReview
+    </button>
+  </a>
+
+  <a href="ezgikorkmaz.github.io" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
+      Author
+    </button>
+  </a>
+
+</div>
+
 
 ### Citation
 
