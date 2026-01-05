@@ -14,6 +14,23 @@ I am a machine learning researcher and I hold a PhD in artificial intelligence a
 **[[NeurIPS 2025]](https://openreview.net/forum?id=qaHrpITIvB)**
 [[Paper]](https://openreview.net/pdf?id=qaHrpITIvB)
 
+<div style="text-align: center; margin: 30px 0;">
+  
+  <a href="https://openreview.net/pdf?id=qaHrpITIvB" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
+      NeurIPS 2025
+    </button>
+  </a>
+
+  <a href="https://openreview.net/forum?id=qaHrpITIvB" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
+      Paper
+    </button>
+  </a>
+
+</div>
+
+
 [2] Ezgi Korkmaz. Understanding and Diagnosing Deep Reinforcement Learning. International Conference on Machine Learning, **ICML 2024**.  <br /> 
 **[[ICML 2024]](https://openreview.net/pdf?id=s9RKqT7jVM)** 
 [[Paper]](https://proceedings.mlr.press/v235/korkmaz24a.html) 
