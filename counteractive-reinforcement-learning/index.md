@@ -10,6 +10,8 @@ This paper introduces a fundamental paradigm for reinforcement learning that acc
 principles of learning and as a result increases the information gained from the environment interactions of the policy in a given MDP without adding computational complexity. Our analysis and method provide a theoretical basis for efficient, effective, scalable and accelerated reinforcement learning.
 
 
+<div style="color: #333 !important;">
+  
 ```bibtex
 @article{korkmaz2025counteractive,
   title={Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning},
