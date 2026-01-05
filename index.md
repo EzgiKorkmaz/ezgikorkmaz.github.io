@@ -13,7 +13,7 @@ I am a machine learning researcher and I hold a PhD in artificial intelligence a
 ✨<span style="color: Blue;">**Spotlight Presentation**</span>✨  <br /> 
 **[[NeurIPS 2025]](https://openreview.net/forum?id=qaHrpITIvB)**
 [[Paper]](https://openreview.net/pdf?id=qaHrpITIvB)
-[[Cite]](https://ezgikorkmaz.github.io/counteractive-reinforcement-learning/)
+[[Blog]](https://ezgikorkmaz.github.io/counteractive-reinforcement-learning/)
 
 
 [2] Ezgi Korkmaz. Understanding and Diagnosing Deep Reinforcement Learning. International Conference on Machine Learning, **ICML 2024**.  <br /> 
