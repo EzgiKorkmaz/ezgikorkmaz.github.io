@@ -5,21 +5,73 @@ keywords: "Deep Reinforcement Learning, generalization, DeepRL, reinforcement le
 ---
 
 <style>
-  /* This targets the specific 'Minimal' theme layout */
+  /* 1. Global Layout Adjustments for Minimal Theme */
   .wrapper {
-    max-width: 900px !important; /* Makes the page wider */
+    max-width: 1100px !important; /* Made wider to fit both sidebar and content */
     margin-left: auto !important;
     margin-right: auto !important;
+    display: flex !important; /* Helps align sidebar and content */
   }
+
   header {
-    display: none !important; /* This usually removes the sidebar/picture */
+    display: none !important; /* Removes the theme's default left sidebar/photo */
   }
+
   section {
     width: 100% !important;
     float: none !important;
+    margin-left: 220px !important; /* Pushes text right to make room for your new sidebar */
+  }
+
+  /* 2. Your New Navigation Sidebar */
+  .research-sidebar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    background-color: #fcfcfc;
+    border-right: 1px solid #eee;
+    padding: 40px 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .research-sidebar h3 {
+    font-size: 11px;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+  }
+
+  .research-sidebar a {
+    display: block;
+    padding: 8px 0;
+    color: #444;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  .research-sidebar a:hover {
+    color: #007bff;
+  }
+
+  /* 3. Mobile Responsiveness */
+  @media screen and (max-width: 900px) {
+    .research-sidebar { display: none; }
+    section { margin-left: 0 !important; }
+    .wrapper { display: block !important; }
   }
 </style>
 
+<div class="research-sidebar">
+  <h3>Research Projects</h3>
+  <a href="https://ezgikorkmaz.github.io/counteractive-reinforcement-learning/">Counteractive RL</a>
+  <a href="https://ezgikorkmaz.github.io/robust-reinforcement-learning/">Robust RL</a>
+  <hr style="border:0; border-top: 1px solid #eee; margin: 20px 0;">
+  <a href="https://ezgikorkmaz.github.io/" style="color: #999;">← Portfolio Home</a>
+</div>
 
 <div style="text-align: center; margin-bottom: 40px;">
 
