@@ -34,8 +34,13 @@ keywords: "Deep Reinforcement Learning, scalable, efficient, sample-efficiency, 
   </h3>
 
   <p style="color: #003366; font-weight: bold; font-size: 1.1em; margin-top: 5px;">
-    Conference on Neural Information Processing Systems, NeurIPS 2025 Spotlight Presentation
+    Conference on Neural Information Processing Systems, NeurIPS 2025 
   </p>
+
+  <p style="color: #003366; font-weight: bold; font-size: 1.1em; margin-top: 5px;">
+    ✨ Spotlight Presentation ✨
+  </p>
+
 
 </div>
 
