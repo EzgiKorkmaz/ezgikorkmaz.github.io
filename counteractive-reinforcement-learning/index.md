@@ -15,16 +15,9 @@
 </style>
 
 
----
-layout: default
-title: Counteractive RL
----
-
-
 # Efficient and Scalable Reinforcement Learning
 
-<h1 style="color: #003366;">Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning</h1>
-### Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning
+<h3 style="color: #003366;">Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning</h1>
 
 ####  Conference on Neural Information Processing Systems, NeurIPS 2025 Spotlight Presentation.
 
