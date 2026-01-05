@@ -23,7 +23,7 @@
     Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning
   </h3>
 
-  <p style="color: #444; font-weight: bold; font-size: 1.1em; margin-top: 5px;">
+  <p style="color: #003366; font-weight: bold; font-size: 1.1em; margin-top: 5px;">
     Conference on Neural Information Processing Systems, NeurIPS 2025 Spotlight Presentation
   </p>
 
