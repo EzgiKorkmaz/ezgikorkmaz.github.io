@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Robust Reinforcement Learning 
@@ -23,7 +22,7 @@ title: Robust Reinforcement Learning
 
 <div style="text-align: center; margin-bottom: 40px;">
   
-  <h1>Robust Reinforcement Learning and Generalization</h1>
+
 
   <h3 style="color: #003366; margin-top: 10px;">
     Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness
