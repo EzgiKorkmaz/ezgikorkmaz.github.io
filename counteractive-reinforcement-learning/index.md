@@ -22,8 +22,7 @@ keywords: "Deep Reinforcement Learning, scalable, efficient, sample-efficiency, 
 
 
 <div style="text-align: center; margin-bottom: 40px;">
-  
-  <h1>Efficient and Scalable Reinforcement Learning</h1>
+
 
     <h2 style="color: #003366; margin-top: 10px;">
     Efficient and Scalable Reinforcement Learning
