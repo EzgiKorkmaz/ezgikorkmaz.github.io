@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Robust Reinforcement Learning 
+keywords: "Deep Reinforcement Learning, Adversarial Attacks, Robustness, AI Safety, black-box attack, generalization"
 ---
 
 <style>
@@ -47,7 +48,7 @@ Learning from raw high dimensional data via interaction with a given environment
 
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26009" target="_blank" style="text-decoration: none;">
     <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
-      OpenReview
+      AAAI
     </button>
   </a>
 
