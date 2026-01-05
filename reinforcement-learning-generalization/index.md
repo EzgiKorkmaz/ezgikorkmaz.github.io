@@ -111,7 +111,7 @@ Reinforcement learning research obtained significant success and attention with 
 <pre style="margin: 0; white-space: pre-wrap; color: #000000 !important;"><span style="color: #000000; font-weight: bold;">@article</span>{<span style="color: #003366;">rlsurveykorkmaz</span>,
   <span style="color: #000000; font-weight: bold;">title</span>={<span style="color: #003366;">A Survey Analyzing Generalization in Deep Reinforcement Learning</span>},
   <span style="color: #000000; font-weight: bold;">author</span>={<span style="color: #003366;">Korkmaz, Ezgi</span>},
-   <span style="color: #000000; font-weight: bold;">journal</span>={<span style="color: #003366;">ArXiv</span>},
+  <span style="color: #000000; font-weight: bold;">journal</span>={<span style="color: #003366;">ArXiv</span>},
   <span style="color: #000000; font-weight: bold;">year</span>={<span style="color: #003366;">2024</span>},
   <span style="color: #000000; font-weight: bold;">url</span>={<a href="https://doi.org/10.48550/arXiv.2401.02349" style="color: #003366; text-decoration: underline;">https://doi.org/10.48550/arXiv.2401.02349</a>}
 }</pre>
