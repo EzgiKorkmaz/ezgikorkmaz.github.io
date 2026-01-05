@@ -1,3 +1,20 @@
+<style>
+  /* This targets the specific 'Minimal' theme layout */
+  .wrapper {
+    max-width: 900px !important; /* Makes the page wider */
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  header {
+    display: none !important; /* This usually removes the sidebar/picture */
+  }
+  section {
+    width: 100% !important;
+    float: none !important;
+  }
+</style>
+
+
 ---
 layout: default
 title: Counteractive RL
@@ -6,7 +23,7 @@ title: Counteractive RL
 
 # Efficient and Scalable Reinforcement Learning
 
-
+<h1 style="color: #003366;">Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning</h1>
 ### Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning
 
 ####  Conference on Neural Information Processing Systems, NeurIPS 2025 Spotlight Presentation.
