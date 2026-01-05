@@ -34,7 +34,7 @@ I am a machine learning researcher and I hold a PhD in artificial intelligence a
 [5] Ezgi Korkmaz. Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness. AAAI Conference on Artificial Intelligence [Acceptance Rate: 19.6%], **AAAI 2023**. <br /> 
 **[[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/26009)**
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26009/25781) 
-[[Cite]](ezgikorkmazaaai23.html)
+[[Cite]](https://ezgikorkmaz.github.io/robust-reinforcement-learning/)
 [[BibTeX]](https://dblp.org/rec/conf/aaai/Korkmaz23.html?view=bibtex) 
 [[In UCL Blog]](https://blogs.ucl.ac.uk/steapp/2023/11/15/adversarial-attacks-robustness-and-generalization-in-deep-reinforcement-learning/) 
 
