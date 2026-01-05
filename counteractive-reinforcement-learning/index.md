@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Counteractive RL
+keywords: "Deep Reinforcement Learning, scalable, efficient, sample-efficiency, efficient reinforcement learning, scalable reinforcement learning"
 ---
 
 <style>
@@ -23,6 +24,10 @@ title: Counteractive RL
 <div style="text-align: center; margin-bottom: 40px;">
   
   <h1>Efficient and Scalable Reinforcement Learning</h1>
+
+    <h2 style="color: #003366; margin-top: 10px;">
+    Efficient and Scalable Reinforcement Learning
+  </h2>
 
   <h3 style="color: #003366; margin-top: 10px;">
     Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning
