@@ -56,7 +56,6 @@ Reinforcement learning research obtained significant success and attention with 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="background-color: #fcfcfc; padding: 20px; border-radius: 8px; border: 1px solid #d1d5da; font-family: 'Courier New', Courier, monospace; line-height: 1.5; width: 100%; max-width: 850px;">
 <pre style="margin: 0; white-space: pre-wrap; color: #000000 !important;"><span style="color: #000000; font-weight: bold;">@article</span>{<span style="color: #003366;">rlsurveykorkmaz</span>,
-<div style="display: flex; justify-content: center; margin-top: 20px;">
   <span style="color: #000000; font-weight: bold;">title</span>={<span style="color: #003366;">A Survey Analyzing Generalization in Deep Reinforcement Learning</span>},
   <span style="color: #000000; font-weight: bold;">author</span>={<span style="color: #003366;">Korkmaz, Ezgi</span>},
    <span style="color: #000000; font-weight: bold;">journal</span>={<span style="color: #003366;">ArXiv</span>},
