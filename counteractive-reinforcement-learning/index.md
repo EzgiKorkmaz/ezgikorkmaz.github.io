@@ -1,3 +1,8 @@
+---
+layout: default
+title: Counteractive RL
+---
+
 <style>
   /* This targets the specific 'Minimal' theme layout */
   .wrapper {
