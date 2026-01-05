@@ -17,14 +17,14 @@ principles of learning and as a result increases the information gained from the
 
 
   
-```bibtex
-@article{korkmaz2025counteractive,
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 5px; border: 1px solid #e1e4e8; color: #333 !important;">
+<pre style="margin: 0; white-space: pre-wrap; color: #333 !important;"><code style="color: #333 !important; background: transparent;">@article{korkmaz2025counteractive,
   title={Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning},
   author={Korkmaz, Ezgi},
   journal={Conference on Neural Information Processing Systems, NeurIPS},
   year={2025},
   url={https://openreview.net/pdf?id=qaHrpITIvB}
-}
-```
+}</code></pre>
+</div>
 
 
