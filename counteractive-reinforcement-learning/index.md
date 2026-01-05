@@ -47,7 +47,7 @@ principles of learning and as a result increases the information gained from the
     </button>
   </a>
 
-  <a href="ezgikorkmaz.github.io" target="_blank" style="text-decoration: none;">
+  <a href="https://ezgikorkmaz.github.io" target="_blank" style="text-decoration: none;">
     <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
       Author
     </button>
@@ -60,7 +60,7 @@ principles of learning and as a result increases the information gained from the
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="background-color: #fcfcfc; padding: 20px; border-radius: 8px; border: 1px solid #d1d5da; font-family: 'Courier New', Courier, monospace; line-height: 1.5; width: 100%; max-width: 850px;">
-<pre style="margin: 0; white-space: pre-wrap; color: #000000 !important;"><span style="color: #000000; font-weight: bold;">@article</span>{korkmaz2025counteractive,
+<pre style="margin: 0; white-space: pre-wrap; color: #000000 !important;"><span style="color: #000000; font-weight: bold;">@article</span>{<span style="color: #003366;">korkmaz2025counteractive</span>,
   <span style="color: #000000; font-weight: bold;">title</span>={<span style="color: #003366;">Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning</span>},
   <span style="color: #000000; font-weight: bold;">author</span>={<span style="color: #003366;">Korkmaz, Ezgi</span>},
   <span style="color: #000000; font-weight: bold;">journal</span>={<span style="color: #003366;">Conference on Neural Information Processing Systems, NeurIPS</span>},
