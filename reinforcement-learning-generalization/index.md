@@ -66,11 +66,12 @@ keywords: "Deep Reinforcement Learning, generalization, DeepRL, reinforcement le
 </style>
 
 <div class="research-sidebar">
-  <h3>Research Projects</h3>
-  <a href="https://ezgikorkmaz.github.io/counteractive-reinforcement-learning/">Counteractive RL</a>
-  <a href="https://ezgikorkmaz.github.io/robust-reinforcement-learning/">Robust RL</a>
+  <h3>Ezgi Korkmaz</h3>
+  <a href="https://ezgikorkmaz.github.io/counteractive-reinforcement-learning/">Efficient and Scalable Reinforcement Learning</a>
+  <a href="https://ezgikorkmaz.github.io/robust-reinforcement-learning/">Robust Reinforcement Learning</a>
+  <a href="https://ezgikorkmaz.github.io/reinforcement-learning-generalization/">Reinforcement Learning Generalization</a>
   <hr style="border:0; border-top: 1px solid #eee; margin: 20px 0;">
-  <a href="https://ezgikorkmaz.github.io/" style="color: #999;">← Portfolio Home</a>
+  <a href="https://ezgikorkmaz.github.io/" style="color: #999;">← Home Page</a>
 </div>
 
 <div style="text-align: center; margin-bottom: 40px;">
