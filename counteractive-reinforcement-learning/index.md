@@ -16,15 +16,13 @@ principles of learning and as a result increases the information gained from the
 
 
 
-  
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 5px; border: 1px solid #e1e4e8; color: #333 !important;">
-<pre style="margin: 0; white-space: pre-wrap; color: #333 !important;"><code style="color: #333 !important; background: transparent;">@article{korkmaz2025counteractive,
-  title={Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning},
-  author={Korkmaz, Ezgi},
-  journal={Conference on Neural Information Processing Systems, NeurIPS},
-  year={2025},
-  url={https://openreview.net/pdf?id=qaHrpITIvB}
-}</code></pre>
+<div style="background-color: #fcfcfc; padding: 20px; border-radius: 8px; border: 1px solid #d1d5da; font-family: 'Courier New', Courier, monospace; line-height: 1.5;">
+    <pre style="margin: 0; white-space: pre-wrap; color: #000000 !important;"><span style="color: #003366; font-weight: bold;">@article</span>{korkmaz2025counteractive,
+  <span style="color: #003366;">title</span>={Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning},
+  <span style="color: #003366;">author</span>={Korkmaz, Ezgi},
+  <span style="color: #003366;">journal</span>={Conference on Neural Information Processing Systems, NeurIPS},
+  <span style="color: #003366;">year</span>={2025},
+  <span style="color: #003366;">url</span>={<a href="https://openreview.net/pdf?id=qaHrpITIvB" style="color: #003366; text-decoration: underline;">https://openreview.net/pdf?id=qaHrpITIvB</a>}
+}</pre>
 </div>
-
 
