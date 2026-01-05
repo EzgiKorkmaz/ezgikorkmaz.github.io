@@ -64,5 +64,3 @@ Reinforcement learning research obtained significant success and attention with 
 }</pre>
   </div>
 </div>
-
-</div>
