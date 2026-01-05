@@ -65,7 +65,7 @@ Learning from raw high dimensional data via interaction with a given environment
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="background-color: #fcfcfc; padding: 20px; border-radius: 8px; border: 1px solid #d1d5da; font-family: 'Courier New', Courier, monospace; line-height: 1.5; width: 100%; max-width: 850px;">
-<pre style="margin: 0; white-space: pre-wrap; color: #000000 !important;"><span style="color: #000000; font-weight: bold;">@inproceedings</span>{<span style="color: #003366;">DBLP:conf/aaai/Korkmaz23</span>,
+<pre style="margin: 0; white-space: pre-wrap; color: #000000 !important;"><span style="color: #000000; font-weight: bold;">@inproceedings</span>{<span style="color: #003366;">Korkmazaaai23</span>,
   <span style="color: #000000; font-weight: bold;">author</span>={<span style="color: #003366;">Korkmaz, Ezgi</span>},
   <span style="color: #000000; font-weight: bold;">title</span>={<span style="color: #003366;">Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness</span>},
   <span style="color: #000000; font-weight: bold;">booktitle</span>={<span style="color: #003366;">Thirty-Seventh AAAI Conference on Artificial Intelligence</span>},
