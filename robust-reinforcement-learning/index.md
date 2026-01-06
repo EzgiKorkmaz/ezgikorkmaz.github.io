@@ -73,7 +73,20 @@ Learning from raw high dimensional data via interaction with a given environment
 </div>
 
 
-### Citation
+#### Paper Highlights
+
+✨Robust reinforcement learning is vulnerable to black-box adversarial attacks.
+
+✨Standard reinforcement learning can generalize much better than robust reinforcement learning. 
+
+✨Standard reinforcement learning is robust to imperceptible natural perturbations.
+
+✨ Robust reinforcement learning has extreme sensitivity to imperceptible natural perturbations.
+
+
+
+
+#### Citation
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="background-color: #fcfcfc; padding: 20px; border-radius: 8px; border: 1px solid #d1d5da; font-family: 'Courier New', Courier, monospace; line-height: 1.5; width: 100%; max-width: 850px;">
