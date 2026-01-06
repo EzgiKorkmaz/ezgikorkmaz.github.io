@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Counteractive RL
+title: Counteractive Reinforcement Learning
 keywords: "Deep Reinforcement Learning, scalable, efficient, sample-efficiency, efficient reinforcement learning, scalable reinforcement learning"
 ---
 
