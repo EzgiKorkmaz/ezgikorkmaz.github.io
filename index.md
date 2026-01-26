@@ -15,7 +15,7 @@ I am a machine learning researcher and I hold a PhD in artificial intelligence a
 [[Paper]](https://openreview.net/pdf?id=qaHrpITIvB)
 [[Blog]](https://ezgikorkmaz.github.io/counteractive-reinforcement-learning/)
 
-[2] Ezgi Korkmaz. How to Lose Inherent Counterfactuality in Reinforcement Learning. International Conference on Learning Representations, **ICLR 2026**.  <br /> 
+[2] Ezgi Korkmaz. How to Lose Inherent Counterfactuality in Reinforcement Learning. International Conference on Learning Representations, [Acceptance Rate: 28%] **ICLR 2026**.  <br /> 
 
 
 [3] Ezgi Korkmaz. Understanding and Diagnosing Deep Reinforcement Learning. International Conference on Machine Learning, **ICML 2024**.  <br /> 
