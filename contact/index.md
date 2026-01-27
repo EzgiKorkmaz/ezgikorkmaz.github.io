@@ -26,11 +26,9 @@ title:
 <div style="text-align: center; margin: 30px 0;">
   
 
-  <a href="https://openreview.net/forum?id=qaHrpITIvB" target="_blank" style="text-decoration: none;">
+  <a href="https://openreview.net/pdf?id=qaHrpITIvB" target="_blank" style="text-decoration: none;">
     <button style="background-color: #003366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer; margin: 5px; transition: 0.3s;">
       Contact
     </button>
   </a>
 
-
-</div
