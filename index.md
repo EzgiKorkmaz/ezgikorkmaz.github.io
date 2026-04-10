@@ -16,9 +16,11 @@ I am a machine learning researcher and I hold a PhD in artificial intelligence a
 [[Blog]](https://ezgikorkmaz.github.io/counteractive-reinforcement-learning/)
 
 [2] Ezgi Korkmaz. How to Lose Inherent Counterfactuality in Reinforcement Learning. International Conference on Learning Representations, <br />**ICLR 2026**.  <br /> 
+**[[ICLR 2026]](https://openreview.net/pdf?id=2kutK2Y8Sv)**
 [[Paper]](https://openreview.net/pdf?id=2kutK2Y8Sv)
 
 [3] Ezgi Korkmaz. Fair Reinforcement Learning for Just AI. International Conference on Learning Representations, **ICLR 2026**.  <br /> 
+**[[ICLR 2026]](https://openreview.net/pdf?id=XNNDODynCl)**
 [[Paper]](https://openreview.net/pdf?id=XNNDODynCl)
 
 [4] Ezgi Korkmaz. Understanding and Diagnosing Deep Reinforcement Learning. International Conference on Machine Learning, **ICML 2024**.  <br /> 
@@ -28,6 +30,8 @@ I am a machine learning researcher and I hold a PhD in artificial intelligence a
 [[BibTeX]](https://dblp.org/rec/conf/icml/Korkmaz24.html?view=bibtex)
 
 [5] Ezgi Korkmaz. Principled Analysis of Deep Reinforcement Learning Design and Evaluation Paradigms. AAAI Conference on Artificial Intelligence [Acceptance Rate: 17.6%], **AAAI 2026**.<br /> 
+**[[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/39427)**
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39427/43388) 
 
 [6<sup>a</sup>] Ezgi Korkmaz et al. Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions. International Conference on Machine Learning [Acceptance Rate: 27.94%], **ICML 2023**.  <br /> 
 **[[ICML 2023]](https://proceedings.mlr.press/v202/korkmaz23a.html)** 
