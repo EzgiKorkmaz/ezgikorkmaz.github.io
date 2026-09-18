@@ -15,8 +15,8 @@ I am a machine learning researcher and I hold a PhD in artificial intelligence a
 [[Paper]](https://openreview.net/pdf?id=qaHrpITIvB)
 [[Blog]](https://ezgikorkmaz.github.io/counteractive-reinforcement-learning/)
 
-[2] Ezgi Korkmaz. The Axiomatic Value of Regularization in AI Alignment from Human Preferences. International Conference on Machine Learning, **ICML 2026**. <br /> 
-✨<span style="color: Blue;">**Spotlight Presentation**</span>✨  <br /> 
+[2] Ezgi Korkmaz. The Axiomatic Value of Regularization in AI Alignment from Human Preferences. International Conference on Machine Learning, **ICML 2026**. 
+✨<span style="color: Blue;">**Spotlight Presentation**</span>✨  
 **[[ICML 2026]](https://openreview.net/forum?id=9ydYaIe1Qj)**
 [[Paper]](https://openreview.net/forum?id=9ydYaIe1Qj)
 
